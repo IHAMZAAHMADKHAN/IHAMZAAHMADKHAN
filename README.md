@@ -2,7 +2,8 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me ihamzahmadkhan@gmail.com
+- 📫 How to reach me: ihamzahmadkhan@gmail.com
+- 🖇️ Linkdlen: https://www.linkedin.com/in/ihamzaahmadkhan 
 - 😄 Pronouns: He
 - ⚡ Fun fact: NOTHING TO SAY ABOUT AT.
 
