@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @IHAMZAAHMADKHAN<br>- 👀 I’m interested in coding<br>- 🌱 I’m currently learning c++<br>- 💞️ I’m looking to collaborate on projects<br>- 📫 How to reach me: ihamzahmadkhan@gmail.com<br>- 🖇️ Linkdlen: https://www.linkedin.com/in/ihamzaahmadkhan<br>- 😄 Pronouns: He<br>- ⚡ Fun fact: NOTHING TO SAY ABOUT AT.
+👋 Hi, I’m @IHAMZAAHMADKHAN<br>- 👀 I’m interested in coding<br>- 🌱 I’m currently learning c++<br>- 💞️ I’m looking to collaborate on projects<br>- 📫 How to reach me: ihamzahmadkhan@gmail.com<br>- 🖇️ Linkdlen: https://www.linkedin.com/in/ihamzaahmadkhan<br>-  📱 WhatsApp: +92 318 1968149 - 😄 Pronouns: He<br>- ⚡ Fun fact: Converting oxygen into carbon dioxide is a fun fact.
 
 
 ## 🌐 Socials:
