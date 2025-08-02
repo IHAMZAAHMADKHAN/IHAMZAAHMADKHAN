@@ -7,7 +7,7 @@
 
 # 💫 About Me:
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-👋 Hi, I’m @IHAMZAAHMADKHAN<br>- 👀 I’m interested in coding<br>- 🌱 I’m currently learning c++<br>- 💞️ I’m looking to collaborate on projects<br>- 📫 How to reach me: ihamzahmadkhan@gmail.com<br>- 🖇️ Linkdlen: https://www.linkedin.com/in/ihamzaahmadkhan<br>-  📱 WhatsApp: +92 318 1968149  - 😄 Pronouns: He<br>- ⚡ Fun fact: Converting oxygen into carbon dioxide.
+👋 Hi, I’m @IHAMZAAHMADKHAN<br>- 👀 I’m interested in coding<br>- 🌱 I’m currently learning c++<br>- 💞️ I’m looking to collaborate on projects<br>- 📫 How to reach me: ihamzahmadkhan@gmail.com<br>- 🖇️ Linkdlen: https://www.linkedin.com/in/ihamzaahmadkhan<br>-  📱 WhatsApp: +92 318 1968149 <br>- 😄 Pronouns: He<br>- ⚡ Fun fact: Converting oxygen into carbon dioxide.
 
 
 ## 🌐 Socials:
@@ -29,7 +29,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=IHAMZAAHMADKHAN&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
+
 [![](https://visitcount.itsvg.in/api?id=IHAMZAAHMADKHAN&icon=10&color=0)](https://visitcount.itsvg.in)
 
 
